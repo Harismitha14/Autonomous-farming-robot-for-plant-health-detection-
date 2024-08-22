@@ -1,4 +1,4 @@
-# Autonomous-farming-robot-for-plant-health-detection-
+# Automated-farming-robot-for-plant-health-detection-
 import argparse
 import sys
 import time
